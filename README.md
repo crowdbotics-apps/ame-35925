@@ -58,6 +58,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-payment-split](screens/payment-split-screen)
 - [react-native-login](modules/login)
 - [screen-image-editing-edit](screens/image-editing-edit)
+- [react-native-chat](modules/chat)
 
 # Getting started: Frontend
 
