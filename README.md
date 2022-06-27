@@ -57,7 +57,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [screen-payment-split](screens/payment-split-screen)
 - [react-native-login](modules/login)
-- [screen-image-editing-edit](screens/image-editing-edit)
 - [screen-about-the-app](screens/about-the-app)
 
 # Getting started: Frontend
